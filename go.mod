@@ -1,3 +1,3 @@
-module none/funny-lib
+module github.com/MR6996/funny-lib
 
 go 1.17
